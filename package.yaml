@@ -35,7 +35,6 @@ library:
     -Wall
   source-dirs: 
     - src 
-    - dist/build/autogen/uuagc
 
 executables:
   helium:
